@@ -1,4 +1,4 @@
-#include "HelloWorld.h"
+#include "Person.h"
 
 int main()
 {
